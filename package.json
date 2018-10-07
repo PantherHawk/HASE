@@ -1,0 +1,21 @@
+{
+  "name": "snaxkbar",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animated": "^0.2.2",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-countup": "^4.0.0-alpha.6",
+    "react-dom": "^16.5.2",
+    "react-lorem-component": "^0.13.0",
+    "react-scripts": "1.1.5",
+    "react-typeform-embed": "^0.1.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
