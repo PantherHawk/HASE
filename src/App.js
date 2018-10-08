@@ -24,7 +24,7 @@ export default class App extends Component {
       return (
         <React.Fragment>
           <Top />
-          <h1>HOORAH!</h1><br/><Evaluation />
+  <br/><Evaluation />
         </React.Fragment>
       );
     } else {
